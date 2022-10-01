@@ -1,2 +1,1 @@
-# CaseEstudio1
-Caso de Estudio 1 Seminario Ingeniería Software 1
+Proyecto realizado para la materia de Seminario de Ing de Software I, CUCEI, UDG.
